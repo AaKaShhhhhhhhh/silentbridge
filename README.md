@@ -6,6 +6,8 @@
 
 > This repository is a showcase only. The source code is private.
 
+**Patent application published · India, 2026.** See [Patent](#patent).
+
 <p align="center">
   <img src="media/runtime_styled_preview.png" alt="SilentBridge 3D signing avatar" width="360">
 </p>
@@ -52,6 +54,17 @@ A small rule set reorders simple English sentences into an SOV sign-order previe
 ## Status
 
 SilentBridge is a communication aid, not an interpreter. Several signs are unresolved, every sign still awaits Deaf ISL review, and Play Store release work is still open.
+
+## Patent
+
+The related Indian patent application has been published:
+
+- **Title:** Sign Language Communication and Personalized Training Device
+- **Application number:** 202611066813 A
+- **Published:** 17 July 2026
+- **Record:** [Patent application publication](https://drive.google.com/file/d/1nhplARuW1CfDOHqZ9m_Ne5h1fzglcKqw/view?usp=sharing)
+
+This is a published application, not a granted patent.
 
 ## Team
 
